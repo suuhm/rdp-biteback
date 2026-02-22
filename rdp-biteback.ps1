@@ -157,7 +157,7 @@ function Show-Credits {
             $img = [System.Drawing.Image]::FromFile($imagePath)
             
             $pictureBox = New-Object System.Windows.Forms.PictureBox
-            $pictureBox.Size = New-Object System.Drawing.Size(230,170)
+            $pictureBox.Size = New-Object System.Drawing.Size(220,180)
             $pictureBox.Location = New-Object System.Drawing.Point(80,10)
             $pictureBox.SizeMode = [System.Windows.Forms.PictureBoxSizeMode]::StretchImage
             $pictureBox.Image = $img
@@ -173,6 +173,7 @@ function Show-Credits {
     } else {
         $textTop = 20
         $btnTop = 120
+
     }
 
 
