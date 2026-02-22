@@ -10,7 +10,7 @@ It is intended for lab, testing and educational use only. Use at your own risk a
 > Modifying Microsoft binaries can break your system, violate license terms or reduce security.  
 > Always test in a virtual machine first and keep reliable backups.
 
-<img width="897" height="484" alt="grafik" src="https://github.com/user-attachments/assets/69366b53-222e-4373-9762-1bb5087b18de" />
+<img width="897" height="484" alt="screen" src="https://github.com/user-attachments/assets/69366b53-222e-4373-9762-1bb5087b18de" />
 
 ---
 
@@ -44,12 +44,6 @@ All patching is done in-memory using PowerShell, without installing extra depend
 
 - **Activity log**  
   A read‑only status/memo window shows a timestamped log of all actions and results (backup, patch, errors, service control).
-
-- **Credits dialog**  
-  A **Credits** button opens a small info window with author, version and disclaimer.
-
-- **Fixed, clean UI**  
-  Non‑resizable Windows Forms GUI with symmetric layout and clearly labeled controls.
 
 ---
 
